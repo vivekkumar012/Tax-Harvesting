@@ -1,6 +1,6 @@
-# KoinX Tax Loss Harvesting Dashboard
+# Tax Loss Harvesting Dashboard
 
-A responsive React.js + Tailwind CSS Tax Loss Harvesting Dashboard built as an assignment project.
+A responsive React.js + Tailwind CSS Tax Loss Harvesting Dashboard built using React.
 
 The application helps users visualize capital gains before and after harvesting, select holdings for harvesting, and calculate savings in real-time.
 
@@ -83,7 +83,7 @@ src/
 Clone repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/vivekkumar012/Tax-Harvesting.git
 ```
 
 Move into project:
@@ -206,6 +206,6 @@ Post Harvest Gain
 
 ## Author
 
-Built by <Vivek Kumar>
+Built by Vivek Kumar
 
 Assignment Project for KoinX.
